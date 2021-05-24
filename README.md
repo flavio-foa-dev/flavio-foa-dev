@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 Flavio
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-Oliveira-Andrade&show_icons=true)](https://github.com/SEUNOME/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-Oliveira-Andrade&show_icons=true)/github-readme-stats)
