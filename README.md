@@ -1,4 +1,4 @@
-<a hrel="https://www.linkedin.com/in/flavio-andrade-97ab43a3" rel="nofollow">
+<a target="_blank" hrel="https://www.linkedin.com/in/flavio-andrade-97ab43a3" rel="nofollow">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <p>
