@@ -1,6 +1,10 @@
 <a target="_blank" href="https://www.linkedin.com/in/flavio-andrade-97ab43a3" rel="nofollow">
   <img alt="Linkedin de Flavio Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
+<p> Flavio Andrade <br/>
+  <br/>
+Hi there 👋
+</p>
 <p>
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -8,8 +12,7 @@
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
 </p>
-Flavio-Oliveira-Andrade/projectTrybe
-### Hi there 👋
+
 
 <!--
 **Flavio-Oliveira-Andrade/Flavio-Oliveira-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
