@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/flavio-andrade-97ab43a3" rel="nofollow">
-  <img alt="Linkedin de Flavio Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img target="_blank" alt="Linkedin de Flavio Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 
