@@ -1,3 +1,11 @@
+<p>
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
+</p>
+Flavio-Oliveira-Andrade/projectTrybe
 ### Hi there 👋
 
 <!--
