@@ -24,6 +24,8 @@ Hi there 👋
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" /> 
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  
 </p>
 </p>
 
