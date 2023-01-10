@@ -31,7 +31,7 @@ Hi there 👋
   </p>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-foa-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-foa-dev&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
