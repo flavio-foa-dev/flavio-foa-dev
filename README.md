@@ -27,7 +27,7 @@ Hola!,Qué tal? 👋
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />          
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />         
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />    
   </div>
 
 
