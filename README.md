@@ -1,13 +1,17 @@
 <a target="_blank" href="https://www.linkedin.com/in/flavio-andrade-97ab43a3" rel="nofollow">
-  <img target="_blank" alt="Linkedin de Flavio Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img 
+    target="_blank" 
+    alt="Linkedin de Flavio Andrade" 
+    width="40px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
+  />
 </a>
-
 
 <p> Flavio Andrade <br/>
   <br/>
-¡Hola! ¿Qué tal? 👋
+  ¡Hola! ¿Qué tal? 👋
 </p>
-<br/>
+  <br/>
 
 
 <img width="300px" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
